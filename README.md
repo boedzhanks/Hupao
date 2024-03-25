@@ -16,7 +16,10 @@
 <br>
 
 ## SPOTIFY
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3127pz43djmdoscijja57u6ux4tm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<p align="center"><a href="https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz?si=47bbaef2b9544bbb" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
 ### ⚙ &nbsp;GitHub Analytics
 
 ---
@@ -28,7 +31,7 @@
 <details>
  <summary>Changelog</summary>
 
-## 25 Mei 2023
+## 25 Maret 2024
 
 - First Commit
 
@@ -80,8 +83,8 @@ node index.js
 ## Konfigurasi
 
 ```bash
-buka config.js
-ubah nomor Creater, nomor onwer, dan lainnya yang pengen dirubah
+buka config.json
+ubah nomor nama bot, nomor onwer, dan lainnya yang pengen dirubah
 ```
 
 ## My Sosmed
@@ -98,7 +101,7 @@ ubah nomor Creater, nomor onwer, dan lainnya yang pengen dirubah
 - Allah SWT
 - Orang Tua
 - [Adiwajshing](https://github.com/adiwajshing)
-- All creator bot
+- Haikal
 - Dan semua yang selalu mendukung
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
