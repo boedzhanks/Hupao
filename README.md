@@ -4,7 +4,6 @@
 <img src="https://media1.tenor.com/m/42A6vafhlsEAAAAC/hu-tao-loop.gif" />
 </p>
 
-<a href="https://visitor-badge.glitch.me/badge?page_id=boedzhanks/Hupao"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=boedzhanks/Hupao"></a>
 <a href="https://github.com/boedzhanks/Hupao/network/members"><img title="Forks" src="https://img.shields.io/github/forks/boedzhanks/Hupao?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/boedzhanks/Hupao/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/boedzhanks/Hupao?label=Watchers&color=green&style=flat-square"></a>
 <a href="https://github.com/boedzhanks/Hupao/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/boedzhanks/Hupao?label=Stars&color=yellow&style=flat-square"></a>
@@ -17,7 +16,7 @@
 <br>
 
 ## SPOTIFY
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3127pz43djmdoscijja57u6ux4tm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3127pz43djmdoscijja57u6ux4tm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### ⚙ &nbsp;GitHub Analytics
 
