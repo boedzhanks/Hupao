@@ -176,7 +176,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : 
 "mediaKeyTimestamp": "1684161893"
 }}}
 const reply = (teks) => {
-return hupao.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {"title": `Aku Sayang ${botname}🥰`,"body": `Selamat ${ucapanWaktu} kak ${pushname}`, mediaType: 1, renderLargerThumbnail: true, "previewType": "PHOTO","thumbnailUrl": 'https://i.pinimg.com/736x/60/ec/ac/60ecacef76cba5870861c33e0f3a226f.jpg',"thumbnail": thumb,"sourceUrl": `https://chat.whatsapp.com/Lhw9jBIZnBDF7wkEcwyZ1D`}}}, { quoted:m})} 
+return hupao.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {"title": `Aku Sayang ${botname}🥰`,"body": `Selamat ${ucapanWaktu} kak ${pushname}`, mediaType: 1, renderLargerThumbnail: true, "previewType": "PHOTO","thumbnailUrl": 'https://telegra.ph/file/984ec7737ca62fc16e87e.jpg',"thumbnail": thumb,"sourceUrl": `https://chat.whatsapp.com/Lhw9jBIZnBDF7wkEcwyZ1D`}}}, { quoted:m})} 
 
 const errorReply = (teks) => {
         return hupao.sendMessage(from, {text: teks,  contextInfo: {
@@ -233,7 +233,7 @@ const ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid"
 		const fgclink = {key: {participant: "0@s.whatsapp.net","remoteJid": "0@s.whatsapp.net"},"message": {"groupInviteMessage": {"groupJid": "6288213840883-1616169743@g.us","inviteCode": "m","groupName": ofc, "caption": `${pushname}`, 'jpegThumbnail': thum}}}
 		const fvideo = {key: { fromMe: false,participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "status@broadcast" } : {}) },message: { "videoMessage": { "title":botname, "h": ofc,'seconds': '359996400', 'caption': `${pushname}`, 'jpegThumbnail': good}}}
 		const floc = {key : {participant : '0@s.whatsapp.net', ...(m.chat ? { remoteJid: `status@broadcast` } : {}) },message: {locationMessage: {name: ofc,jpegThumbnail: thum}}}
-const fkontak = { key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { 'contactMessage': { 'displayName': `Hupao By Boedzhanks`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;Boedzhanks,;;;\nFN:${pushname},\nitem1.TEL;waid=${sender.split('@')[0]}:${sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': { url: 'https://i.pinimg.com/736x/60/ec/ac/60ecacef76cba5870861c33e0f3a226f.jpg' }}}}
+const fkontak = { key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { 'contactMessage': { 'displayName': `Hupao By Boedzhanks`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;Boedzhanks,;;;\nFN:${pushname},\nitem1.TEL;waid=${sender.split('@')[0]}:${sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': { url: 'https://telegra.ph/file/984ec7737ca62fc16e87e.jpg' }}}}
 function parseMention(text = '') {
 return [...text.matchAll(/@([0-9]{5,16}|0)/g)].map(v => v[1] + '@s.whatsapp.net')
 }
