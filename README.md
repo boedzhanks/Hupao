@@ -17,7 +17,7 @@
 
 ## SPOTIFY
 
-<p align="center"><a href="https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz?si=47bbaef2b9544bbb" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+<p align="left"><a href="https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz?si=47bbaef2b9544bbb" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 ### ⚙ &nbsp;GitHub Analytics
