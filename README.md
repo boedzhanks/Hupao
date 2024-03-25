@@ -16,9 +16,7 @@
 <br>
 
 ## SPOTIFY
-
-<p align="center"><a href="https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz?si=47bbaef2b9544bbb" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3127pz43djmdoscijja57u6ux4tm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### ⚙ &nbsp;GitHub Analytics
 

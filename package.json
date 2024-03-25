@@ -13,7 +13,7 @@
         "@adiwajshing/keyed-db": "^0.2.4",
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
         "@hapi/boom": "^10.0.1",
-        "@whiskeysockets/baileys": "^6.3.0",
+        "@whiskeysockets/baileys": "^6.6.0",
         "api-dylux": "^1.7.2",
         "awesome-phonenumber": "^5.10.0",
         "axios": "^1.4.0",
